@@ -1,0 +1,63 @@
+/* =========================================
+   VARIABLES
+========================================= */
+
+:root{
+
+    /* ---------- Colors ---------- */
+
+    --ink:#101820;
+    --paper:#f6f4ee;
+
+    --teal:#2f7d78;
+    --gold:#b8902f;
+
+    --line:#c9c6bb;
+    --muted:#6b6f66;
+
+
+    /* ---------- Typography ---------- */
+
+    --font-heading:'Fraunces', serif;
+    --font-body:'IBM Plex Mono', monospace;
+
+
+    /* ---------- Font Weights ---------- */
+
+    --font-regular:400;
+    --font-medium:500;
+    --font-semibold:600;
+
+
+    /* ---------- Font Sizes ---------- */
+
+    --text-xs:11px;
+    --text-sm:12px;
+    --text-base:12.5px;
+    --text-lg:19px;
+
+
+    /* ---------- Border Radius ---------- */
+
+    --radius-full:999px;
+
+
+    /* ---------- Spacing ---------- */
+
+    --space-xs:8px;
+    --space-sm:16px;
+    --space-md:22px;
+    --space-lg:32px;
+    --space-xl:44px;
+
+
+    /* ---------- Transition ---------- */
+
+    --transition-fast:.22s ease;
+
+
+    /* ---------- ECG Animation ---------- */
+
+    --ecg-length:1400;
+
+}
